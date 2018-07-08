@@ -3,7 +3,7 @@
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 
-[build-badge]: https://img.shields.io/travis/matt-simpson/react-fancy-select/master.png?style=flat-square
+[build-badge]: https://travis-ci.com/matt-simpson/react-fancy-select.svg?branch=master
 [build]: https://travis-ci.com/matt-simpson/react-fancy-select
 [npm-badge]: https://img.shields.io/npm/v/react-fancy-select.png?style=flat-square
 [npm]: https://www.npmjs.org/package/react-fancy-select

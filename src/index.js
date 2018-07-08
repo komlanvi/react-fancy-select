@@ -208,7 +208,8 @@ FancySelect.propTypes = {
   onSelection: PropTypes.func,
   useNative: PropTypes.bool,
   placeholder: PropTypes.string,
-  name: PropTypes.string
+  name: PropTypes.string,
+  defaultValue: PropTypes.string
 };
 
 export default FancySelect;
