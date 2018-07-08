@@ -2,9 +2,6 @@
 
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
-[![Coveralls][coveralls-badge]][coveralls]
-
-Describe react-fancy-select here.
 
 [build-badge]: https://img.shields.io/travis/matt-simpson/react-fancy-select/master.png?style=flat-square
 [build]: https://travis-ci.com/matt-simpson/react-fancy-select
