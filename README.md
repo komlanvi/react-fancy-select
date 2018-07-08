@@ -57,13 +57,14 @@ const Component = () => (
 
 ## Props
 
-| Property      | Type     | Default            | Description                                                                                                      |
-| :------------ | :------- | :----------------- | :--------------------------------------------------------------------------------------------------------------- |
-| `items`       | array    | undefined          | array of items                                                                                                   |
-| `onSelection` | function | undefined          | callback fires upon item selection with selected object as parameter                                             |
-| `useNative`   | boolean  | true               | if true, positions and hides a select element on top of the component on mobile devices to trigger native select |
-| `placeholder` | string   | `Please select...` | placeholder text to display before selection                                                                     |
-| `name`        | string   | null               | name to give to select element if being used in a form for requests                                              |
+| Property       | Type     | Default            | Description                                                                                                      |
+| :------------- | :------- | :----------------- | :--------------------------------------------------------------------------------------------------------------- |
+| `items`        | array    | undefined          | array of items                                                                                                   |
+| `onSelection`  | function | undefined          | callback fires upon item selection with selected object as parameter                                             |
+| `useNative`    | boolean  | true               | if true, positions and hides a select element on top of the component on mobile devices to trigger native select |
+| `placeholder`  | string   | `Please select...` | placeholder text to display before selection                                                                     |
+| `name`         | string   | null               | name to give to select element if being used in a form for requests                                              |
+| `defaultValue` | string   | null               | the default selected value                                                                                       |
 
 ## Styling
 
